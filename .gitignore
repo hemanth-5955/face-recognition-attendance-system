@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Database - contains biometric data, never commit real student data
+frs.db
+
+# Test images (personal photos used for development)
+test_face.jpg
+stranger.jpg
+
+# macOS
+.DS_Store
+
+# InsightFace model cache (large, auto-downloads on first run)
+.insightface/
+
+# Secrets - encryption key must never be committed
+.env
