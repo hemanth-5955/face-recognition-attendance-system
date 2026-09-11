@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ## Setup (Windows)
 
-git clone (your repo url here)
+git clone (https://github.com/hemanth-5955/face-recognition-attendance-system.git)
 cd FRS
 python -m venv venv
 venv\Scripts\python.exe -m pip install -r requirements.txt
