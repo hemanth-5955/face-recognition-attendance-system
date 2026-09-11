@@ -23,7 +23,7 @@ Built as part of a university dissertation project. The recognition model is pre
 ## Setup (macOS)
 
 brew install python@3.11 python-tk@3.11
-git clone (your repo url here)
+git clone (https://github.com/hemanth-5955/face-recognition-attendance-system.git)
 cd FRS
 python3.11 -m venv venv
 source venv/bin/activate
